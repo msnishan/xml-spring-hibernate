@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employees>
+	<Employee id = "emp001">
+		<name>
+			<firstName>Clarke</firstName>
+			<lastName>Kent</lastName>
+		</name>
+	</Employee>
+
+	<Employee id = "emp002">
+		<name>
+			<firstName>Bruce</firstName>
+			<lastName>Wayne</lastName>
+		</name>
+	</Employee>
+	
+	<Employee id = "emp003">
+		<name>
+			<firstName>Peter</firstName>
+			<lastName>Parker</lastName>
+		</name>
+	</Employee>		
+</Employees>
