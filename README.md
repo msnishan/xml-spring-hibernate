@@ -1,3 +1,3 @@
-xml-spring-hibernate
+xml-spring-hibernate : XML Based
 ====================
 Created for Basic Learning..........
